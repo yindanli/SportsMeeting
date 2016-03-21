@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1418715166 source:c:\documents and settings\administrator\桌面\sportsmeeting\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+
+1419318698 source:i:\sportsmeeting\main.cpp
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+
+1419326674 source:d:\宇强\desktop\sportsmeeting\main.cpp
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1419388911 source:d:\宇强\desktop\sportsmeeting数据结构课程设计\main.cpp
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
